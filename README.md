@@ -1,6 +1,6 @@
 # T-Level-Digital-Core-Notes
 
-This work is available for non-commercial use.
+Read LICENSE.md to see conditions in which you may use this work.
 
 
 This work is intended for the 2022 edition of the course T Level in Digital, Design, and Development by Pearson. 
