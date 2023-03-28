@@ -1,0 +1,31 @@
+
+In programming, relational operators are used for comparing values. These operators allow for selection/branching and making decisions based off conditions. The most common relational operators include:
+- Equal to (==) 
+    - Checks if 2 values are equal and returns True if they are. Follows the syntax: val1 == val2
+        - "a" == "a" will return True
+        - "a" == "b" will return False
+- Not equal to (!= or <>)  
+    - Checks if 2 values are different and returns True if they are. Follows the syntax val1 != val2
+        - 2 != will return True
+        - 3 != 3 will return False
+- Less than (<) 
+    - Checks if the value on the left is smaller than the value on the right. Follows the syntax: val1 < val2.
+        - 3 < 4 will return True
+        - 3 < 2 will return False
+        - 3 < 3 will return False
+- Greater than (>) 
+    - Checks if the value on the left is greater than the value on the right. Follows the syntax: val1 > val2. 
+        - 3 > 2 will return True
+        - 2 > 3 will return False
+        - 3 > 3 will return False
+- Less than or equal to (<=) 
+    - Checks if the value on the left is smaller than or equal to the value on the right. Follows the syntax: val1 <= val2.
+        - 3 <= 4 will return True
+        - 3 <= 2 will return False
+        - 3 <= 3 will return True
+- Greater than or equal to (>=) 
+    - Checks if the value on the left is greater than or equal to the value on the right. Follows the syntax: val1 >= val2. 
+        - 3 >= 2 will return True
+        - 2 >= 3 will return False
+        - 3 >= 3 will return True
+        
